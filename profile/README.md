@@ -1,5 +1,3 @@
-# KWDB
-
 ## About KWDB
 
 **KWDB is a distributed multi-model database tailored for AIoT scenarios.** It supports the concurrent creation of time-series and relational databases within the same instance and the integrated processing of multi-model data. KWDB can process time-series data with high efficiency. It supports tens of millions of device connections, millions of data points written per second, and hundreds of millions of data points read per second. It features stability & security, high availability, and easy maintenance. 
