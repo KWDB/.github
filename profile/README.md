@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://www.kaiwudb.com/" target="_blank">
+  <a href="https://kwdb.tech" target="_blank">
     <img
-      src="./logo.png"
+      src="./logo.svg"
       alt="KWDB"
       width="500"
     />
@@ -30,6 +30,7 @@ IoT, multi-model database, distributed, time-series data processing, cloud-edge 
 Learn more about our community:
 
 - [KWDB](https://github.com/kwdb/kwdb), a distributed multi-model database for AIoT scenarios.
+- [KaiwuDB Agent Skills](https://github.com/KWDB/KaiwuDB-Agent-Skills), a project for presenting KaiwuDB agent skills.
 - [KWDB MCP Server](https://github.com/KWDB/kwdb-mcp-server), the MCP Server for KWDB.
 - [KWDB TSBS](https://github.com/KWDB/kwdb-tsbs), Time-Series Benchmark Suite for KWDB.
 - [KWDB Playground](https://github.com/KWDB/playground), a web-based interactive platform for users to experience KWDB.
