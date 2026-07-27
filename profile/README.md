@@ -3,7 +3,7 @@
     <img
       src="./logo.svg"
       alt="KWDB"
-      width="500"
+      width="200"
     />
   </a>
 </div>
